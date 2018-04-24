@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoFileName",
+		"Git",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"Material Theme",
+		"Package Control",
+		"WakaTime"
+	]
+}
