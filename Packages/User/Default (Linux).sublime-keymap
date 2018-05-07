@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+e+f+q"], "command": "slurp_find_string" },
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
+]
